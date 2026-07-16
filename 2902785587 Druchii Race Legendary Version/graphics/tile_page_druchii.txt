@@ -1,0 +1,48 @@
+tile_page_druchii
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:BODYPARTS]
+	[FILE:images/bodyparts.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:960]
+
+[TILE_PAGE:BONE_PILE]
+	[FILE:images/bone_pile.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:64]
+
+[TILE_PAGE:GUTS]
+	[FILE:images/guts.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:384]
+
+[TILE_PAGE:DRUCHII_BODY]
+	[FILE:images/dwarf_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:DRUCHII_HAIR_STRAIGHT]
+	[FILE:images/dwarf_hair_straight.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:1056]
+
+[TILE_PAGE:DRUCHII_HAIR_CURLY]
+	[FILE:images/dwarf_hair_curly.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:608]
+
+[TILE_PAGE:DRUCHII_CLOTHING]
+	[FILE:images/dwarf_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:DRUCHII_ARMOR]
+	[FILE:images/dwarf_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:DRUCHII_WIELDABLES]
+	[FILE:images/dwarf_wieldables.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:960:864]
