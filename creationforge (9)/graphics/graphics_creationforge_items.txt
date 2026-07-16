@@ -1,0 +1,9 @@
+graphics_creationforge_items
+
+[OBJECT:GRAPHICS]
+
+# Sprite for the custom ITEM_TOOL_PLATE (defined statically in objects/item_creationforge_items.txt
+# so this token resolves at graphics-load time). ITEM_TOOL_BOWL is a vanilla item and keeps its
+# vanilla sprite, so it is intentionally NOT overridden here. Greyscale on CF_ITEMS; DF tints by material.
+
+[TOOL_GRAPHICS:CF_ITEMS:1:0:ITEM_TOOL_PLATE]

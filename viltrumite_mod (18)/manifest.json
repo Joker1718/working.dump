@@ -1,0 +1,11 @@
+{
+    "id": "viltrumite_mod",
+    "title": "Viltrumite Mod",
+    "version": "18",
+    "graphics": [
+        "graphics/tile_page_viltrumite.txt",
+        "graphics/graphics_creatures_viltrumite.txt",
+        "graphics/graphics_viltrumite_corpse.txt"
+    ]
+}
+
